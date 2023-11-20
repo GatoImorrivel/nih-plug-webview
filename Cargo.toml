@@ -1,0 +1,2 @@
+[workspace]
+members = ["plugin", "standalone", "nih-plug", "nih-plug/nih_plug_webview", "tao/tao-macros"]

@@ -1,0 +1,9 @@
+[submodule "nih-plug"]
+	path = nih-plug
+	url = https://github.com/GatoImorrivel/nih-plug.git
+[submodule "tao"]
+	path = tao
+	url = https://github.com/GatoImorrivel/tao.git
+[submodule "wry"]
+	path = wry
+	url = https://github.com/GatoImorrivel/wry.git
